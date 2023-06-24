@@ -1,0 +1,186 @@
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\MoreLanguages.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\MoreLanguages.pdb
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\0Harmony.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Assembly-CSharp.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Il2Cppmscorlib.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\MelonLoader.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnhollowerBaseLib.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnhollowerRuntimeLib.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.Localization.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.CoreModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Mono.Cecil.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\MonoMod.Utils.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\MonoMod.RuntimeDetour.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.AnimationModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.UI.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.RenderPipelines.HighDefinition.Runtime.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.TextMeshPro.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.InputSystem.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.TerrainModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.Core.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.AudioModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\DOTween.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.ResourceManager.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.Addressables.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.UIModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.VFXModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\com.rlabrecque.steamworks.net.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\bHapticsLib.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\AssetRipper.VersionUtilities.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\AssetsTools.NET.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Tomlet.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Mono.Cecil.Pdb.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Mono.Cecil.Mdb.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Mono.Cecil.Rocks.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Iced.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.Xml.Linq.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppNewtonsoft.Json.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.InputLegacyModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.VisualEffectGraph.Runtime.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.Mathematics.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.XRModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.VideoModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.InputModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppMono.Security.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.Configuration.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.Xml.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\WebSocketDotNet.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.Numerics.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.Runtime.Serialization.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.Data.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.UIElementsNativeModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.Timeline.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.SubsystemsModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.DirectorModule.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\MelonLoader.xml
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\obj\Debug\MoreLanguages.csproj.AssemblyReference.cache
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\obj\Debug\MoreLanguages.csproj.CoreCompileInputs.cache
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\obj\Debug\MoreLanguages.csproj.CopyComplete
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\obj\Debug\MoreLanguages.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\obj\Debug\MoreLanguages.pdb
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Newtonsoft.Json.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Newtonsoft.Json.xml
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\MoreLanguages.dll.config
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\YamlDotNet.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\YamlDotNet.xml
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.Il2CppAssetBundleManager.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\UniverseLib.IL2CPP.Unhollower.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\CsvHelper.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\System.Buffers.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\System.Memory.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\System.Numerics.Vectors.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\CsvHelper.xml
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\System.Buffers.xml
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\System.Memory.xml
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\System.Numerics.Vectors.xml
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\SlimeRancherModding\IL2CPP Rider\Slime Rancher 2\MoreLanguages\bin\Debug\DebuggingMod.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\obj\Debug\MoreLanguages.csproj.AssemblyReference.cache
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\obj\Debug\MoreLanguages.csproj.CoreCompileInputs.cache
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\obj\Debug\MoreLanguages.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\obj\Debug\MoreLanguages.pdb
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\MoreLanguages.dll.config
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\MoreLanguages.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\MoreLanguages.pdb
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\0Harmony.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Assembly-CSharp.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Il2Cppmscorlib.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\MelonLoader.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnhollowerBaseLib.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.Localization.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.ResourceManager.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.TextMeshPro.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.CoreModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.Il2CppAssetBundleManager.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.Il2CppImageConversionManager.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UniverseLib.IL2CPP.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UniverseLib.IL2CPP.Unhollower.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Mono.Cecil.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\MonoMod.Utils.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\MonoMod.RuntimeDetour.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.AnimationModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.UI.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.RenderPipelines.HighDefinition.Runtime.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.InputSystem.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.TerrainModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.Core.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.AudioModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\DOTween.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.Addressables.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.UIModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.VFXModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\com.rlabrecque.steamworks.net.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\bHapticsLib.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\AssetRipper.VersionUtilities.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\AssetsTools.NET.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Tomlet.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Mono.Cecil.Pdb.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Mono.Cecil.Mdb.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Mono.Cecil.Rocks.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Iced.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.Xml.Linq.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppNewtonsoft.Json.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnhollowerRuntimeLib.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.InputLegacyModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.VisualEffectGraph.Runtime.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.Mathematics.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.XRModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.VideoModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.InputModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppMono.Security.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.Configuration.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.Xml.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\WebSocketDotNet.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.Numerics.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.Runtime.Serialization.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Il2CppSystem.Data.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.UIElementsNativeModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Unity.Timeline.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.SubsystemsModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\UnityEngine.DirectorModule.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\MelonLoader.xml
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\obj\Debug\MoreLanguages.csproj.CopyComplete
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Newtonsoft.Json.dll
+E:\SlimeRancherModding\Slime Rancher 2\MoreLanguages\bin\Debug\Newtonsoft.Json.xml
